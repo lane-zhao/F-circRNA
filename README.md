@@ -200,3 +200,9 @@ After get the fusion library, you can use the circRNA detecting software to find
 
 ## Results
 f-circRNA will generate 4 folders, the fusion libraries will be generated in the **‘fusion_results’** folder. The fusion circRNA results will be generated in the **‘cirRNA_results’** folder, which contains positions and sequences of fusion circRNAs.
+
+## Simulated RNA-seq reads
+To estimate the power of f-circRNA, we tested it in the context of known ground truth and real biological sequencing data.
+Simulated RNA-seq reads were generated, the fastq files and result files can be download from http://www.origin-gene.cn/software/f-circrna/ .
+
+Any problem can contact Lei Zhao: zhaolei_lane@163.com
